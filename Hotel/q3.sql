@@ -1,4 +1,5 @@
 -- Q3 Which days (Monday - Sunday) are the highest number of room reservations? 
+
 SELECT 
   CASE
     WHEN strftime('%w', check_in_date) = '0' THEN 'Sunday'
