@@ -1,4 +1,4 @@
--- JOIN 3 TABLES  
+-- Q1 JOIN 3 TABLES  
 
 SELECT 
   o.order_date,
