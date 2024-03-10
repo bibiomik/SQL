@@ -6,3 +6,4 @@ Thanks to DataRockie courses, I'm now can a SQL I can grab data, filter it down,
 - Pizza Shop
 - GrandParadiseHotel
 - CafeSale 
+- HR Analytics
