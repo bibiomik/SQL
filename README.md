@@ -7,3 +7,4 @@ Thanks to DataRockie courses, I'm now can a SQL I can grab data, filter it down,
 - GrandParadiseHotel
 - CafeSale 
 - HR Analytics
+- Car Dealer
